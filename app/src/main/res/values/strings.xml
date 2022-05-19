@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flobiz_Assgnment</string>
+    <string name="bannervisible">isBannerVisible</string>
+    <string name="visible">visible</string>
+</resources>
